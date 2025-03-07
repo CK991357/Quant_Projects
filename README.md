@@ -13,6 +13,12 @@
 - **使用须知**: 安装 Qbot 后，可以通过其文档和示例代码进行使用
 - **项目链接**: https://github.com/CK991357/Quant_Qbot
 
+### Quant_QUANTAXIS
+- **简介**: QUANTAXIS 的分支，支持任务调度和分布式部署的量化解决方案
+- **用途**: 提供股票/期货/期权数据、回测、模拟、交易、可视化和多账户管理
+- **使用须知**: 安装 QUANTAXIS 后，可以通过 `import QUANTAXIS` 使用其功能
+- **项目链接**: https://github.com/CK991357/Quant_QUANTAXIS
+
 ## 数据获取工具
 ### Quant_jqdatasdk
 - **简介**: 聚宽数据接口，用于获取金融数据
@@ -68,6 +74,12 @@
 - **用途**: 提供统计模型和经济计量工具，适用于数据分析和统计建模
 - **使用须知**: 安装 Statsmodels 后，可以通过 `import statsmodels` 使用其功能
 - **项目链接**: https://github.com/CK991357/Quant_statsmodels
+
+### Quant_ta-lib-python
+- **简介**: TA-Lib 的分支，用于技术分析
+- **用途**: 提供技术分析工具，适用于金融数据的分析和交易策略开发
+- **使用须知**: 安装 TA-Lib 后，可以通过 `import talib` 使用其功能
+- **项目链接**: https://github.com/CK991357/Quant_ta-lib-python
 
 ### Quant_qlib-server
 - **简介**: Qlib-Server 的分支，提供 Qlib 的在线数据服务
@@ -152,6 +164,18 @@
 - **使用须知**: 安装 zipline 后，可以通过 `import zipline` 使用其功能
 - **项目链接**: https://github.com/CK991357/Quant_zipline
 
+### Quant_alphalens
+- **简介**: alphalens 的分支，用于分析预测性股票因子
+- **用途**: 提供股票因子性能分析工具，适用于量化策略开发
+- **使用须知**: 安装 alphalens 后，可以通过 `import alphalens` 使用其功能
+- **项目链接**: https://github.com/CK991357/Quant_alphalens
+
+### Quant_pyfolio
+- **简介**: pyfolio 的分支，用于投资组合和风险分析
+- **用途**: 提供投资组合和风险分析工具，适用于量化研究和交易
+- **使用须知**: 安装 pyfolio 后，可以通过 `import pyfolio` 使用其功能
+- **项目链接**: https://github.com/CK991357/Quant_pyfolio
+
 ## 机器学习与量化交易
 ### Quant_tensorflow
 - **简介**: TensorFlow 的分支，用于机器学习和深度学习
@@ -200,6 +224,24 @@
 - **用途**: 提供应相关示例和工具，可用于开发自动炒股策略
 - **使用须知**: 安装 RL-Stock 后，可以通过其示例代码学习和应用强化学习策略
 - **项目链接**: https://github.com/CK991357/Quant_RL-Stock
+
+### Quant_scikit-learn
+- **简介**: scikit-learn 的分支，用于机器学习
+- **用途**: 提供简单高效的数据挖掘和数据分析工具，适用于量化研究和交易
+- **使用须知**: 安装 scikit-learn 后，可以通过 `import sklearn` 使用其功能
+- **项目链接**: https://github.com/CK991357/Quant_scikit-learn
+
+### Quant_ai_quant_trade
+- **简介**: ai_quant_trade 的分支，用于 AI 量化交易
+- **用途**: 提供从学习、模拟到实盘的一站式平台，适用于量化策略开发
+- **使用须知**: 安装 ai_quant_trade 后，可以通过其文档和示例代码进行使用
+- **项目链接**: https://github.com/CK991357/Quant_ai_quant_trade
+
+### Quant_FinRL
+- **简介**: FinRL 的分支，用于金融强化学习
+- **用途**: 提供金融强化学习工具，适用于量化策略开发
+- **使用须知**: 安装 FinRL 后，可以通过其文档和示例代码进行使用
+- **项目链接**: https://github.com/CK991357/Quant_FinRL
 
 ## 参考与学习
 ### Quant_alpha101_code
