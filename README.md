@@ -1,10 +1,11 @@
 # 量化交易项目集合
 
 ## 数据处理与分析
-### Quant_numpy
+### Quant_numpy_
 - **简介**: NumPy 的分支，用于科学计算
 - **用途**: 提供高性能的多维数组对象和数学工具，是数据分析和机器学习的基础
 - **使用须知**: 安装 NumPy 后，可以通过 `import numpy as np` 使用其功能
+- **仓库链接**:https://github.com/CK991357/Quant_numpy
 
 ### Quant_pandas
 - **简介**: Pandas 的分支，用于数据分析和操作
